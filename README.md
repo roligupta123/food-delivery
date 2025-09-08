@@ -67,27 +67,21 @@ npm run build
 📦 Dependencies
 
 React
-
 Bootstrap
-
 Vite
+
 
 📌 Future Enhancements
 
 🔹 User authentication
-
 🔹 Order tracking system
-
 🔹 Payment gateway integration
+
 
 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit pull requests.
 
 
-
----
-
-👉 Do you want me to also **add Bootstrap setup instructions** (like including Bootstrap via CDN or npm in your project)?
 
 
