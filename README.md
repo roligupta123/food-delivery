@@ -56,16 +56,23 @@ cd food-delivery
 ```
 
 Setup:
+```bash
+npm create vite@latest
+```
 
 ```bash
 npm install
+```
 
+```bash
 npm run dev
+```
 
+```bash
 npm run build
 ```
 
-📦 Dependencies
+## 📦 Dependencies
 
 React
 
@@ -74,7 +81,7 @@ Bootstrap
 Vite
 
 
-📌 Future Enhancements
+## 📌 Future Enhancements
 
 🔹 User authentication
 
@@ -83,7 +90,7 @@ Vite
 🔹 Payment gateway integration
 
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit pull requests.
 
