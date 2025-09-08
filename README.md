@@ -26,16 +26,21 @@ This project demonstrates how to create an online food ordering system with mode
 ## 📂 Project Structure
 
 food-delivery/
-│── public/ # Static assets
-│── src/ # React components & logic
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # Main pages (Home, Cart, etc.)
+│── public/ # Static assets (favicon, images, etc.)
+│
+│── src/ # React components & application logic
+│ ├── assets/ # Images, icons, and other static files
+│ ├── components/ # Reusable UI components (Navbar, Card, etc.)
+│ ├── pages/ # Main pages (Home, Cart, About, etc.)
+│ ├── context/ # React Context / State management
 │ ├── App.jsx # Root component
 │ └── main.jsx # Entry point
+│
+│── .gitignore # Git ignore file
 │── index.html # Main HTML file
-│── package.json # Dependencies and scripts
+│── package.json # Project dependencies and scripts
 │── vite.config.js # Vite configuration
-└── README.md
+└── README.md # Documentation
 
 
 ---
@@ -47,10 +52,15 @@ Clone the repository:
 ```bash
 git clone https://github.com/roligupta123/food-delivery.git
 cd food-delivery
+```
 
+Setup:
+
+```bash
 npm install
 
 npm run dev
 
 npm run build
+```
 
