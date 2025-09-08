@@ -25,6 +25,7 @@ This project demonstrates how to create an online food ordering system with mode
 
 ## 📂 Project Structure
 
+```
 food-delivery/
 │── public/ # Static assets (favicon, images, etc.)
 │
@@ -41,7 +42,7 @@ food-delivery/
 │── package.json # Project dependencies and scripts
 │── vite.config.js # Vite configuration
 └── README.md # Documentation
-
+```
 
 ---
 
