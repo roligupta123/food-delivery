@@ -67,14 +67,18 @@ npm run build
 📦 Dependencies
 
 React
+
 Bootstrap
+
 Vite
 
 
 📌 Future Enhancements
 
 🔹 User authentication
+
 🔹 Order tracking system
+
 🔹 Payment gateway integration
 
 
