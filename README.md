@@ -10,14 +10,14 @@ This project demonstrates how to create an online food ordering system with mode
 - ✅ Browse food items with images and details  
 - ✅ Filter food by category  
 - ✅ Add / remove items from cart  
-- ✅ Responsive design using **Bootstrap**  
+- ✅ Responsive design using **Tailwind CSS**  
 - ✅ Built with **React + Vite** for fast development  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Bootstrap, CSS  
+- **Frontend:** React,Tailwind CSS  
 - **Bundler:** Vite  
 - **Version Control:** Git + GitHub  
 
@@ -83,11 +83,11 @@ Vite
 
 ## 📌 Future Enhancements
 
-🔹 User authentication
+🔹 Food list
 
 🔹 Order tracking system
 
-🔹 Payment gateway integration
+🔹 show your all information about food
 
 
 ## 🤝 Contributing
