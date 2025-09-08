@@ -47,3 +47,10 @@ Clone the repository:
 ```bash
 git clone https://github.com/roligupta123/food-delivery.git
 cd food-delivery
+
+npm install
+
+npm run dev
+
+npm run build
+
